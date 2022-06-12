@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+h1{
+    color:brown;
+    display:grid;
+    place-content: center;
+    min-height: 90vh;
+}
